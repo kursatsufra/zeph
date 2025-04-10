@@ -1,0 +1,8 @@
+
+
+@echo off
+cd %~dp0
+cls
+
+SRBMiner-MULTI.exe --algorithm randomx --pool ru.zephyr.herominers.com:1124 --wallet solo:ZEPHYR2zBttGwTgHkKY84c1A4Hb1BkS7u2kR61iTr1YQfgYuL8xMM5Q3rsFNhdCSNUVeSkaqNpU3B7YN3XSehnwJCi74LJpdUgQ3g --password ks
+pause
